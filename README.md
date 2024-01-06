@@ -1,9 +1,11 @@
 ### Oi, sou a Carla 👋🏽
 
 Urbanista de formação com foco em Geoprocessamento.  
-Atualmente em transição de carreira para a área de análise de dados.
+Atualmente em transição de carreira para a área de Ciência de Dados.
 
 Meus principais interesses incluem:  
-  🗺️ Geoprocessamento  
+  📚 Ciência de Dados  
   📊 Visualização de Dados  
-  📚 Ciência de Dados
+  🗺️ Geoprocessamento  
+    
+  

@@ -6,7 +6,7 @@
 
 Urbanista de formação e graduanda em Ciência de Dados, com experiência em geoprocessamento, análise e visualização de dados e gerenciamento administrativo.
 
-Atualmente, estou buscando a oportunidade de trabalhar profissionalmente na área de dados e/ou geoprocessamento.”
+Atualmente, estou buscando a oportunidade de trabalhar profissionalmente na área de dados e/ou geoprocessamento.
 
 ## Habilidades Técnicas
 <div style="display: inline_block">

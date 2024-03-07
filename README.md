@@ -6,8 +6,6 @@
 
 Urbanista de formação e graduanda em Ciência de Dados, com experiência em geoprocessamento, análise e visualização de dados e gerenciamento administrativo.
 
-Atualmente, estou buscando a oportunidade de trabalhar profissionalmente na área de dados e/ou geoprocessamento.
-
 ## Habilidades Técnicas
 <div style="display: inline_block">
   <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
